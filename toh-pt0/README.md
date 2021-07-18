@@ -25,7 +25,7 @@ Desarrolla aplicaciones en el contexto de un [espacio de trabajo](https://angula
 
 Para crear un nuevo espacio de trabajo y un proyecto de aplicación inicial:
 
-1. Asegúrese de no estar ya en una carpeta de espacio de trabajo angular. Por ejemplo, si ha creado previamente el espacio de trabajo de Introducción, cambie al padre de esa carpeta.
+1. Asegúrese de no estar ya en una carpeta de espacio de trabajo de Angular. Por ejemplo, si ha creado previamente el espacio de trabajo de Introducción, cambie al padre de esa carpeta.
 
 2. Ejecute el comando CLI `ng new` y proporcione el nombre `angular-tour-of-heroes`, como se muestra aquí:
 
