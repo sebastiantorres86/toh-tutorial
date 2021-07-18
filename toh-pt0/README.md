@@ -100,7 +100,7 @@ Abra el archivo de plantilla de componente (`app.component.html`) y elimine la p
 <h1>{{title}}</h1>
 ```
 
-Las llaves dobles son la sintaxis de _enlace de interpolación_ de Angular . Este enlace de interpolación presenta el valor de propiedad `title` del componente dentro de la etiqueta de encabezado HTML.
+Las llaves dobles son la sintaxis de _enlace de interpolación_ de Angular. Este enlace de interpolación presenta el valor de propiedad `title` del componente dentro de la etiqueta de encabezado HTML.
 
 El navegador se actualiza y muestra el nuevo título de la aplicación.
 
