@@ -4,7 +4,7 @@ El componente `HeroesComponent` de Tour of Heroes está obteniendo y mostrando d
 
 Después de la refactorización en este tutorial, `HeroesComponent` se simplificará y se centrará en apoyar la vista. También será más fácil realizar pruebas unitarias con un servicio simulado.
 
-> Para ver la aplicación de muestra que se describe en esta página, consulte la [ejemplo en vivo](https://angular.io/generated/live-examples/toh-pt2/stackblitz.html)/[ejemplo de descarga](https://angular.io/generated/zips/toh-pt2/toh-pt2.zip).
+> Para ver la aplicación de muestra que se describe en esta página, consulte el [ejemplo en vivo](https://angular.io/generated/live-examples/toh-pt2/stackblitz.html)/[ejemplo de descarga](https://angular.io/generated/zips/toh-pt2/toh-pt2.zip).
 
 ---
 
