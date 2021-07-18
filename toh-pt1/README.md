@@ -37,7 +37,7 @@ export class HeroesComponent implements OnInit {
 
 Siempre importa el símbolo [`Component`](https://angular.io/api/core/Component) de la biblioteca principal de Angular y anota la clase del componente con [@`Component`](https://angular.io/api/core/Component).
 
-[@`Component`](https://angular.io/api/core/Component) es una función decoradora que especifica los metadatos angulares del componente.
+[@`Component`](https://angular.io/api/core/Component) es una función decoradora que especifica los metadatos de Angular del componente.
 
 La CLI generó tres propiedades de metadatos:
 
