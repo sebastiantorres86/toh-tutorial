@@ -251,7 +251,7 @@ Cada componente debe declararse en _exactamente un_ [NgModule](https://angular.i
 
 _No declaró_ el `HeroesComponent`. Entonces, ¿por qué funcionó la aplicación?
 
-Funcionó porque la CLI de Angular declaró `HeroesComponent` en el `AppModule` momento en que generó ese componente.
+Funcionó porque la CLI de Angular declaró `HeroesComponent` en el `AppModule` en el momento en que generó ese componente.
 
 Abra` src/app/app.module.ts` y busque `HeroesComponent` importado cerca de la parte superior.
 
