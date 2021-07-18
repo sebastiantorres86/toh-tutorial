@@ -6,7 +6,7 @@ En esta parte del tutorial, hará lo siguiente:
 
 1. Configurar tu entorno.
 2. Crear un nuevo espacio de trabajo y un proyecto de aplicación inicial.
-3. Sirva la aplicación.
+3. Servir la aplicación.
 4. Realizar cambios en la aplicación.
 
 > Para ver la aplicación de muestra que se describe en esta página, consulte el [ejemplo en vivo](https://angular.io/generated/live-examples/toh-pt0/stackblitz.html)/[ejemplo de descarga](https://angular.io/generated/zips/toh-pt0/toh-pt0.zip).
