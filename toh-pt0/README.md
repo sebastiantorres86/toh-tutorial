@@ -47,7 +47,7 @@ El proyecto de la aplicación inicial contiene una aplicación de bienvenida sim
 
 ---
 
-## Sirva la solicitud
+## Sirva la aplicacion
 
 Vaya al directorio del espacio de trabajo e inicie la aplicación.
 
