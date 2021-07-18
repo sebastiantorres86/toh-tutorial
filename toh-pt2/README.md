@@ -2,7 +2,7 @@
 
 En esta página, expandirá la aplicación Tour of Heroes para mostrar una lista de héroes y permitirá a los usuarios seleccionar un héroe y mostrar los detalles del héroe.
 
-> Para ver la aplicación de muestra que se describe en esta página, consulte la [ejemplo en vivo](https://angular.io/generated/live-examples/toh-pt2/stackblitz.html)/[ejemplo de descarga](https://angular.io/generated/zips/toh-pt2/toh-pt2.zip).
+> Para ver la aplicación de muestra que se describe en esta página, consulte el [ejemplo en vivo](https://angular.io/generated/live-examples/toh-pt2/stackblitz.html)/[ejemplo de descarga](https://angular.io/generated/zips/toh-pt2/toh-pt2.zip).
 
 ---
 
