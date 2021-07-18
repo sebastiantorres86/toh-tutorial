@@ -36,17 +36,17 @@ Aprenderá lo suficiente sobre Angular para comenzar y obtendrá la confianza de
 
 ## Lo que vas a construir
 
-Aquí hay una idea visual de hacia dónde conduce este tutorial, comenzando con la vista "Panel de control" y los héroes más heroicos:
+Aquí hay una idea visual de hacia dónde conduce este tutorial, comenzando con la vista "Dashboard" y los héroes más heroicos:
 
 ![](images/1.png)
 
-Puedes hacer clic en los dos enlaces que se encuentran encima del panel ("Dashboard" y "Heroes") para navegar entre esta vista del Panel y la vista de Héroes.
+Puedes hacer clic en los dos enlaces que se encuentran encima del panel ("Dashboard" y "Heroes") para navegar entre esta vista del Dashboard y la vista de Héroes.
 
 Si haces clic en el héroe del tablero "Magneta", el enrutador abre una vista de "Detalles del héroe" donde puedes cambiar el nombre del héroe.
 
 ![](images/2.png)
 
-Al hacer clic en el botón "Back", volverá al panel de control. Los enlaces en la parte superior lo llevan a cualquiera de las vistas principales. Si hace clic en "Heroes", la aplicación muestra la vista de lista maestra de "Heroes".
+Al hacer clic en el botón "Back", volverá al Dashboard. Los enlaces en la parte superior lo llevan a cualquiera de las vistas principales. Si hace clic en "Heroes", la aplicación muestra la vista de lista maestra de "Heroes".
 
 ![](images/3.png)
 
