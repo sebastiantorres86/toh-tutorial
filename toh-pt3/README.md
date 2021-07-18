@@ -8,7 +8,7 @@ En esta página, darás el primer paso en esa dirección al mover los detalles d
 
 El `HeroesComponent` solo presentará la lista de héroes. El `HeroDetailComponent` presentará detalles de un héroe seleccionado.
 
-> Para ver la aplicación de muestra que se describe en esta página, consulte la [ejemplo en vivo](https://angular.io/generated/live-examples/toh-pt2/stackblitz.html)/[ejemplo de descarga](https://angular.io/generated/zips/toh-pt2/toh-pt2.zip).
+> Para ver la aplicación de muestra que se describe en esta página, consulte el [ejemplo en vivo](https://angular.io/generated/live-examples/toh-pt2/stackblitz.html)/[ejemplo de descarga](https://angular.io/generated/zips/toh-pt2/toh-pt2.zip).
 
 ---
 
