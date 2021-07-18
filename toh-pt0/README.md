@@ -58,7 +58,7 @@ ng serve --open
 
 > El comando `ng serve` crea la aplicación, inicia el servidor de desarrollo, observa los archivos de origen y reconstruye la aplicación a medida que realiza cambios en esos archivos.
 >
-> La bandera `--open` abre un navegador a` http://localhost:4200/`.
+> La bandera `--open` abre un navegador en `http://localhost:4200/`.
 
 Debería ver la aplicación ejecutándose en su navegador.
 
