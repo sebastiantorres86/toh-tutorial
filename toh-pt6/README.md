@@ -489,7 +489,7 @@ El HTML de la lista de héroes debería verse así:
 </ul>
 ```
 
-Para colocar el botón de eliminar en el extremo derecho de la entrada del héroe, agregue algo de CSS al archivo `heroes.component.css`. Encontrará ese CSS en la [revisión final de código]() a continuación.
+Para colocar el botón de eliminar en el extremo derecho de la entrada del héroe, agregue algo de CSS al archivo `heroes.component.css`. Encontrará ese CSS en la [revisión final de código](#revision-final-del-codigo) a continuación.
 
 Agregue el controlador `delete()` a la clase de componente.
 
@@ -764,7 +764,7 @@ Ejecute la aplicación nuevamente. En el Dashboard, ingrese algún texto en el c
 
 ---
 
-## Revisión final del código
+## Revision final del codigo
 
 Aquí están los archivos de código discutidos en esta página (todos en la carpeta `src/app/`).
 
