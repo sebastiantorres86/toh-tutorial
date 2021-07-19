@@ -401,7 +401,7 @@ Luego, agregue una ruta _parametrizada_ a la matriz `routes` que coincida con el
 { path: 'detail/:id', component: HeroDetailComponent },
 ```
 
-El signo de dos puntos (:) en `path` indica que `:id` es un marcador de posición para un `id` específico héroe.
+El signo de dos puntos (:) en `path` indica que `:id` es un marcador de posición para un `id` específico de héroe.
 
 En este punto, todas las rutas de aplicación están en su lugar.
 
