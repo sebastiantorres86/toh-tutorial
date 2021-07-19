@@ -615,7 +615,7 @@ Reemplace la plantilla `HeroSearchComponent` generada con una `<input>` y una li
 </div>
 ```
 
-Agregue estilos CSS privados a `hero-search.component.css` que se enumeran en la [revisión final del código]() a continuación.
+Agregue estilos CSS privados a `hero-search.component.css` que se enumeran en la [revisión final del código](#revision-final-del-codigo) a continuación.
 
 A medida que el usuario escribe en el cuadro de búsqueda, un enlace de evento de entrada llama al método `search()` del componente con el nuevo valor del cuadro de búsqueda.
 
