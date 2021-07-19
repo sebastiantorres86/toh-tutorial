@@ -249,7 +249,7 @@ La versión anterior asigna una matriz de héroes a la propiedad `heroes` del co
 
 Eso _no funcionará_ cuando en `HeroService` en realidad esté realizando solicitudes a un servidor remoto.
 
-La nueva versión espera a `Observable` emita la matriz de héroes, lo que podría suceder ahora o dentro de varios minutos. El método `subscribe()` pasa la matriz emitida a la devolución de llamada, que establece la propiedad `heroes` del componente .
+La nueva versión espera a que `Observable` emita la matriz de héroes, lo que podría suceder ahora o dentro de varios minutos. El método `subscribe()` pasa la matriz emitida a la devolución de llamada, que establece la propiedad `heroes` del componente .
 
 Este enfoque asincrónico _funcionará_ cuando `HeroService` solicite héroes del servidor.
 
