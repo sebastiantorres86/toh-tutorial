@@ -465,7 +465,7 @@ Limpie el `<li>` para que quede solo su [`*ngFor`](https://angular.io/api/common
 </ul>
 ```
 
-Tendrá que arreglar la hoja de estilo privada (`heroes.component.css`) para que la lista se vea como antes. Los estilos revisados ​​se encuentran en la [revisión final del código]() al final de esta guía.
+Tendrá que arreglar la hoja de estilo privada (`heroes.component.css`) para que la lista se vea como antes. Los estilos revisados ​​se encuentran en la [revisión final del código](#revision-final-del-codigo) al final de esta guía.
 
 ### Eliminar código muerto (opcional)
 
