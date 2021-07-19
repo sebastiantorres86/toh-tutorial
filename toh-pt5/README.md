@@ -7,7 +7,7 @@ Hay nuevos requisitos para la aplicación Tour of Heroes:
 - Cuando los usuarios hacen clic en el nombre de un héroe en cualquiera de las vistas, navega a una vista detallada del héroe seleccionado.
 - Cuando los usuarios hacen clic en un _enlace profundo_ en un correo electrónico, abre la vista de detalles de un héroe en particular.
 
-> Para ver la aplicación de muestra que se describe en esta página, consulte la [ejemplo en vivo](https://angular.io/generated/live-examples/toh-pt1/stackblitz.html)/[ejemplo de descarga](https://angular.io/generated/zips/toh-pt1/toh-pt1.zip).
+> Para ver la aplicación de muestra que se describe en esta página, consulte el [ejemplo en vivo](https://angular.io/generated/live-examples/toh-pt1/stackblitz.html)/[ejemplo de descarga](https://angular.io/generated/zips/toh-pt1/toh-pt1.zip).
 
 Cuando haya terminado, los usuarios podrán navegar por la aplicación de esta manera:
 
