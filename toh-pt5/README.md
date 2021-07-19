@@ -169,7 +169,7 @@ El navegador se actualiza y muestra el título de la aplicación y el enlace de 
 
 Haga clic en el enlace. La barra de direcciones se actualiza a `/heroes` y aparece la lista de héroes.
 
-> Haga que este y los enlaces de navegación futuros se vean mejor agregando estilos CSS privados a `app.component.css` como se enumeran en la [revisión final del código]() a continuación.
+> Haga que este y los enlaces de navegación futuros se vean mejor agregando estilos CSS privados a `app.component.css` como se enumeran en la [revisión final del código](#revision-final-del-codigo) a continuación.
 
 ---
 
@@ -618,7 +618,7 @@ Los detalles se verán mejor cuando agregue los estilos CSS privados a los `hero
 
 ---
 
-## Revisión final del código
+## Revision final del codigo
 
 Aquí están los archivos de código discutidos en esta página.
 
