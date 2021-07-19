@@ -28,7 +28,7 @@ ng generate module app-routing --flat --module=app
 ```
 
 > `--flat` coloca el archivo en `src/app` en lugar de su propia carpeta.
-> `--module=apple` dice a la CLI que lo registre en la matriz `imports` de `AppModule`.
+> `--module=app` le dice a la CLI que lo registre en la matriz `imports` de `AppModule`.
 
 El archivo generado se ve así:
 
