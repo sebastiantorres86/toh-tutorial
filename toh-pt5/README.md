@@ -516,7 +516,7 @@ import { Location } from "@angular/common";
 import { HeroService } from "../hero.service";
 ```
 
-Inyectar los servicios [`ActivatedRoute`](https://angular.io/api/router/ActivatedRoute), `HeroService` y [`Location`](https://angular.io/api/common/Location) en el constructor, el salvando sus valores en los campos privados:
+Inyectar los servicios [`ActivatedRoute`](https://angular.io/api/router/ActivatedRoute), `HeroService` y [`Location`](https://angular.io/api/common/Location) en el constructor, salvando sus valores en los campos privados:
 
 ```ts
 // src/app/hero-detail/hero-detail.component.ts
