@@ -120,6 +120,16 @@ Reemplace la definición de la propiedad `heroes` con una declaración.
 ```ts
 // src/app/heroes/heroes.component.ts
 
+heroes: Hero[] = [];
+```
+
+### Inyectar el `HeroService`
+
+Agregue un parámetro privado `heroService` de tipo `HeroService` al constructor.
+
+```ts
+src/app/heroes/heroes.component.ts
+
 constructor(private heroService: HeroService) {}
 ```
 
