@@ -193,7 +193,7 @@ En este tutorial, `HeroService.getHeroes()` devolverá un `Observable` porque ev
 
 `Observable` es una de las clases clave en la [Biblioteca RxJS](https://rxjs.dev/).
 
-En un [tutorial posterior sobre HTTP](./toh-pt6), aprenderá que los métodos de Angular [`HttpClient`](https://angular.io/api/common/http/HttpClient) devuelven `Observable`s RxJS. En este tutorial, simulará la obtención de datos del servidor con la función RxJS `of()`.
+En un [tutorial posterior sobre HTTP](../toh-pt6), aprenderá que los métodos de Angular [`HttpClient`](https://angular.io/api/common/http/HttpClient) devuelven `Observable`s RxJS. En este tutorial, simulará la obtención de datos del servidor con la función RxJS `of()`.
 
 Abra el archivo `HeroService` e importe los símbolos `Observable` y `of` desde RxJS.
 
