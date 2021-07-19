@@ -90,7 +90,7 @@ Esto le dice al enrutador que haga coincidir esa URL con `path: 'heroes'` y mues
 
 Los metadatos de [`@NgModule`](https://angular.io/api/core/NgModule) inicializan el enrutador y lo inician a escuchar los cambios de ubicación del navegador.
 
-La siguiente línea agrega el `RouterModule` a la matriz `imports` de `AppRoutingModule` y lo configura con el `routes` en un paso llamando` RouterModule.forRoot()`:
+La siguiente línea agrega el `RouterModule` a la matriz `imports` de `AppRoutingModule` y lo configura con el `routes` en un paso llamando `RouterModule.forRoot()`:
 
 ```ts
 // src/app/app-routing.module.ts
