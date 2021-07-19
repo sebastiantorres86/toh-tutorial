@@ -128,7 +128,7 @@ heroes: Hero[] = [];
 Agregue un parámetro privado `heroService` de tipo `HeroService` al constructor.
 
 ```ts
-src/app/heroes/heroes.component.ts
+// src/app/heroes/heroes.component.ts
 
 constructor(private heroService: HeroService) {}
 ```
