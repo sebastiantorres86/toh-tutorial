@@ -6,7 +6,7 @@ En este tutorial, agregará las siguientes funciones de persistencia de datos co
 - Los usuarios pueden agregar, editar y eliminar héroes y guardar estos cambios a través de HTTP.
 - Los usuarios pueden buscar héroes por su nombre.
 
-> Para ver la aplicación de muestra que se describe en esta página, consulte el [ejemplo en vivo](https://angular.io/generated/live-examples/toh-pt1/stackblitz.html)/[ejemplo de descarga](https://angular.io/generated/zips/toh-pt1/toh-pt1.zip).
+> Para ver la aplicación de muestra que se describe en esta página, consulte el [ejemplo en vivo](https://stackblitz.com/angular/lkrnkmjpvgo?file=src%2Fapp%2Fhero.service.tsl)/[ejemplo de descarga](https://angular.io/generated/zips/toh-pt1/toh-pt1.zip).
 
 ---
 
