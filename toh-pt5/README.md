@@ -614,7 +614,7 @@ goBack(): void {
 
 Actualice el navegador y comience a hacer clic. Los usuarios pueden navegar por la aplicación, desde el dashboard hasta los detalles de los héroes y viceversa, desde la lista de héroes hasta el mini detalle y los detalles de los héroes y de regreso a los héroes nuevamente.
 
-Los detalles se verán mejor cuando agregue los estilos CSS privados a los `hero-detail.component.css` que se enumeran en una de las pestañas de ["revisión de código final"]() a continuación.
+Los detalles se verán mejor cuando agregue los estilos CSS privados a los `hero-detail.component.css` que se enumeran en una de las pestañas de ["revisión de código final"](#revision-final-del-codigo) a continuación.
 
 ---
 
